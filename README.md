@@ -54,6 +54,5 @@ docker exec -it noetic-aleyna bash
 ```
 docker ps # get container id
 docker commit <CONTAINER-ID> <IMAGE-NAME>
-
 ```
 
